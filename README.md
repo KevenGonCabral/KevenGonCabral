@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**KevenGonCabral/KevenGonCabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Capa](https://via.placeholder.com/1200x400.png?text=Keven+Goncalves+-+Developer)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Keven goncalves 👨‍💻
+* Nova Russas 🏜
+* Acadêmico em Ciências da Computação UFC 💻
+* FreeLancer 📈
+
+
+
+
+###
+ <div>
+
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevenGonCabral&layout=compact&langs_count=7&theme=react"/>
+</div>
+
+## 🔧 Tecnologias e Ferramentas
+
+| Linguagens       | Ferramentas       | Frameworks      |
+|------------------|-------------------|------------------|
+|     HTML/CSS     | Git               |           |
+|        | Visual Studio Code |          |
+|         |          |          |
+
+## Contato
+
+- 📧 Email: [kevengoncalves211@gmail.com](mailto:kevengoncalves211@gmail.com)
+- 🌐 LinkedIn: [Kelve](link-do-seu-linkedin)
+
+
+
