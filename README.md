@@ -1,6 +1,6 @@
 
 
-![Capa](https://via.placeholder.com/1200x400.png?text=Keven+Goncalves+-+Developer)
+![WELLCOMExda_](https://github.com/user-attachments/assets/032d3212-8ffc-4578-b3f8-299ed38a1d9f)
 
 * Keven goncalves 👨‍💻
 * Nova Russas 🏜
