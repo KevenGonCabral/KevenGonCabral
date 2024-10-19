@@ -1,6 +1,6 @@
 
 
-![WELLCOMExda_](https://github.com/user-attachments/assets/032d3212-8ffc-4578-b3f8-299ed38a1d9f)
+![WELLCOMExda_ (1)](https://github.com/user-attachments/assets/e1a1f29b-19bd-44f9-86c1-f54130a627db)
 
 * Keven goncalves 👨‍💻
 * Nova Russas 🏜
