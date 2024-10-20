@@ -1,9 +1,10 @@
 
 
 ![WELLCOMExda_ (1)](https://github.com/user-attachments/assets/e1a1f29b-19bd-44f9-86c1-f54130a627db)
+こんにちは👋!
 
 * Keven goncalves 👨‍💻
-* Nova Russas 🏜
+* Nova Russas CE 🏜
 * Acadêmico em Ciências da Computação UFC 💻
 * FreeLancer 📈
 
